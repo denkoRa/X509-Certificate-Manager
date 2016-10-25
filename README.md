@@ -1,2 +1,8 @@
 # X509-Certificate-Manager
-Desktop GUI app managing X509 Certificate
+
+## Functionalities 
+  Create pair of keys (certificate)  
+  Sign certificate  
+  Import signed certificate  
+  Export signed certificate  
+  Export unsigned certificate  
